@@ -22,5 +22,5 @@ Public Instance Of This Bot Can Be Found On Telegram As [@LunaChatBot](https://t
 
 ## Deploy button
 
-[<img src="https://deploy.cloud.run/button.svg" alt="Run on Google Cloud" height="40"/>](https://deploy.cloud.run?git_repo=https://github.com/mptelepro/LunaChatBot "Google Cloud")
+[<img src="https://deploy.cloud.run/button.svg" alt="Run on Google Cloud" height="40"/>](https://deploy.cloud.run?git_repo=https://github.com/Achu2234/LunaChatBot "Google Cloud")
 [<img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" height="40"/>](https://heroku.com/deploy?template=https://github.com/mptelepro/LunaChatBot "Heroku")
